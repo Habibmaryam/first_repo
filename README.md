@@ -1,2 +1,3 @@
-# first_repo
-For the git course
+# Our first project for GitHub
+_For the git course_
+
